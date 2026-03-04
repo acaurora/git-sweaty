@@ -15195,5 +15195,18 @@
     "start_date_local": "2026-03-01T20:07:07Z",
     "type": "Workout",
     "year": 2026
+  },
+  {
+    "date": "2026-03-03",
+    "distance": 7154.9,
+    "elevation_gain": 6.3,
+    "id": "17592838455",
+    "moving_time": 2416.0,
+    "name": "Drop Set / Giving it the absolute beaniest of beans \ud83d\ude80\ud83c\udfc3\u200d\u2642\ufe0f\ud83d\udca8",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-03T11:30:18Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
