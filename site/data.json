@@ -10529,6 +10529,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/17592838455",
       "year": 2026
+    },
+    {
+      "date": "2026-03-04",
+      "hour": 18,
+      "name": "Light(er) Work with Runna \u2705",
+      "subtype": "Workout",
+      "type": "Workout",
+      "url": "https://www.strava.com/activities/17608554868",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -20281,11 +20290,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 2832.0
+        },
+        "2026-03-04": {
+          "activity_ids": [
+            "17608554868"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1462.0
         }
       }
     }
   },
-  "generated_at": "2026-03-04T17:12:02.855343+00:00",
+  "generated_at": "2026-03-05T19:39:21.192257+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/12822",
   "repo": "acaurora/git-sweaty",

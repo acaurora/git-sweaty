@@ -15208,5 +15208,18 @@
     "start_date_local": "2026-03-03T11:30:18Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-03-04",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17608554868",
+    "moving_time": 1462.0,
+    "name": "Light(er) Work with Runna \u2705",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-03-04T18:14:53Z",
+    "type": "Workout",
+    "year": 2026
   }
 ]
