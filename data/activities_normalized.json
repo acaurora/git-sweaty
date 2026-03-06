@@ -15221,5 +15221,18 @@
     "start_date_local": "2026-03-04T18:14:53Z",
     "type": "Workout",
     "year": 2026
+  },
+  {
+    "date": "2026-03-05",
+    "distance": 8853.8,
+    "elevation_gain": 0.0,
+    "id": "17620588187",
+    "moving_time": 3048.0,
+    "name": "5.5mi Easy Run / Thursday Night on the Dreadmilllllllllllllllll",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-05T18:43:34Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
