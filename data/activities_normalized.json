@@ -15234,5 +15234,18 @@
     "start_date_local": "2026-03-05T18:43:34Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-03-07",
+    "distance": 14033.6,
+    "elevation_gain": 33.2,
+    "id": "17641881701",
+    "moving_time": 4738.0,
+    "name": "7.5mi Race Practice Long Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-07T14:04:45Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
