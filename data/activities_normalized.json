@@ -15260,5 +15260,18 @@
     "start_date_local": "2026-03-08T19:23:47Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-03-09",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17667743793",
+    "moving_time": 1257.0,
+    "name": "Easing Down with Runna \u2705 / Race day on Sunday is looking better",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-03-09T19:39:07Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]

@@ -10565,6 +10565,15 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/17655678541",
       "year": 2026
+    },
+    {
+      "date": "2026-03-09",
+      "hour": 19,
+      "name": "Easing Down with Runna \u2705 / Race day on Sunday is looking better",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/17667743793",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -20279,6 +20288,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 1301.0
+        },
+        "2026-03-09": {
+          "activity_ids": [
+            "17667743793"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1257.0
         }
       },
       "Workout": {
@@ -20357,7 +20375,7 @@
       }
     }
   },
-  "generated_at": "2026-03-09T17:37:56.812878+00:00",
+  "generated_at": "2026-03-10T17:35:38.131652+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/12822",
   "repo": "acaurora/git-sweaty",
