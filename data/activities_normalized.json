@@ -15273,5 +15273,18 @@
     "start_date_local": "2026-03-09T19:39:07Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-03-11",
+    "distance": 7066.0,
+    "elevation_gain": 0.0,
+    "id": "17692385545",
+    "moving_time": 2596.0,
+    "name": "Race Pace Practice Half Miles / Animals!",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-11T18:27:22Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
