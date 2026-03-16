@@ -10583,6 +10583,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/17692385545",
       "year": 2026
+    },
+    {
+      "date": "2026-03-15",
+      "hour": 7,
+      "name": "Shamrock Half Marathon-Slightly overdressed, but glad it\u2019s done!",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/17733804687",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -20214,6 +20223,15 @@
           "distance": 7066.0,
           "elevation_gain": 0.0,
           "moving_time": 2596.0
+        },
+        "2026-03-15": {
+          "activity_ids": [
+            "17733804687"
+          ],
+          "count": 1,
+          "distance": 21510.3,
+          "elevation_gain": 180.3,
+          "moving_time": 6860.0
         }
       },
       "WeightTraining": {
@@ -20393,7 +20411,7 @@
       }
     }
   },
-  "generated_at": "2026-03-15T15:55:00.093504+00:00",
+  "generated_at": "2026-03-16T18:10:39.850673+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/12822",
   "repo": "acaurora/git-sweaty",

@@ -15286,5 +15286,18 @@
     "start_date_local": "2026-03-11T18:27:22Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-03-15",
+    "distance": 21510.3,
+    "elevation_gain": 180.3,
+    "id": "17733804687",
+    "moving_time": 6860.0,
+    "name": "Shamrock Half Marathon-Slightly overdressed, but glad it\u2019s done!",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-15T07:23:19Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
