@@ -10592,6 +10592,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/17733804687",
       "year": 2026
+    },
+    {
+      "date": "2026-03-21",
+      "hour": 7,
+      "name": "Pre/During/Post parkrun",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/17807102347",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -20232,6 +20241,15 @@
           "distance": 21510.3,
           "elevation_gain": 180.3,
           "moving_time": 6860.0
+        },
+        "2026-03-21": {
+          "activity_ids": [
+            "17807102347"
+          ],
+          "count": 1,
+          "distance": 16769.0,
+          "elevation_gain": 119.8,
+          "moving_time": 5319.0
         }
       },
       "WeightTraining": {
@@ -20411,7 +20429,7 @@
       }
     }
   },
-  "generated_at": "2026-03-21T15:50:43.374100+00:00",
+  "generated_at": "2026-03-22T15:51:25.123369+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/12822",
   "repo": "acaurora/git-sweaty",
