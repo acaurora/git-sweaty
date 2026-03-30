@@ -10601,6 +10601,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/17807102347",
       "year": 2026
+    },
+    {
+      "date": "2026-03-29",
+      "hour": 13,
+      "name": "Break time over! Marathon training begins next week!",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/17906204631",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -20250,6 +20259,15 @@
           "distance": 16769.0,
           "elevation_gain": 119.8,
           "moving_time": 5319.0
+        },
+        "2026-03-29": {
+          "activity_ids": [
+            "17906204631"
+          ],
+          "count": 1,
+          "distance": 6405.9,
+          "elevation_gain": 48.3,
+          "moving_time": 2020.0
         }
       },
       "WeightTraining": {
@@ -20429,7 +20447,7 @@
       }
     }
   },
-  "generated_at": "2026-03-29T16:00:05.400827+00:00",
+  "generated_at": "2026-03-30T18:06:26.213138+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/12822",
   "repo": "acaurora/git-sweaty",
