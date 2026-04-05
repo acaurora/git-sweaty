@@ -15338,5 +15338,18 @@
     "start_date_local": "2026-03-30T17:02:38Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-04",
+    "distance": 13779.3,
+    "elevation_gain": 92.0,
+    "id": "17978188026",
+    "moving_time": 4230.0,
+    "name": "Parkrun Sandwich with VaporFlys!",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-04T08:18:32Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

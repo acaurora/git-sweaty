@@ -10619,6 +10619,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/17919320998",
       "year": 2026
+    },
+    {
+      "date": "2026-04-04",
+      "hour": 8,
+      "name": "Parkrun Sandwich with VaporFlys!",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/17978188026",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -20286,6 +20295,15 @@
           "distance": 6472.0,
           "elevation_gain": 47.4,
           "moving_time": 2027.0
+        },
+        "2026-04-04": {
+          "activity_ids": [
+            "17978188026"
+          ],
+          "count": 1,
+          "distance": 13779.3,
+          "elevation_gain": 92.0,
+          "moving_time": 4230.0
         }
       },
       "WeightTraining": {
@@ -20465,7 +20483,7 @@
       }
     }
   },
-  "generated_at": "2026-04-04T15:26:12.774802+00:00",
+  "generated_at": "2026-04-05T15:26:05.650814+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/12822",
   "repo": "acaurora/git-sweaty",
