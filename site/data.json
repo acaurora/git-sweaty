@@ -10628,6 +10628,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/17978188026",
       "year": 2026
+    },
+    {
+      "date": "2026-04-05",
+      "hour": 11,
+      "name": "Tempo / \u201cEasy\u201d Sunday Easter Walk/Run \ud83d\udc23 \ud83c\udfc3\u200d\u2642\ufe0f \ud83d\udcf8",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/17992197869",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -20304,6 +20313,15 @@
           "distance": 13779.3,
           "elevation_gain": 92.0,
           "moving_time": 4230.0
+        },
+        "2026-04-05": {
+          "activity_ids": [
+            "17992197869"
+          ],
+          "count": 1,
+          "distance": 18766.6,
+          "elevation_gain": 77.6,
+          "moving_time": 6922.0
         }
       },
       "WeightTraining": {
@@ -20483,7 +20501,7 @@
       }
     }
   },
-  "generated_at": "2026-04-05T15:26:05.650814+00:00",
+  "generated_at": "2026-04-06T15:40:43.292195+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/12822",
   "repo": "acaurora/git-sweaty",

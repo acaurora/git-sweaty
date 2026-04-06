@@ -15351,5 +15351,18 @@
     "start_date_local": "2026-04-04T08:18:32Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-05",
+    "distance": 18766.6,
+    "elevation_gain": 77.6,
+    "id": "17992197869",
+    "moving_time": 6922.0,
+    "name": "Tempo / \u201cEasy\u201d Sunday Easter Walk/Run \ud83d\udc23 \ud83c\udfc3\u200d\u2642\ufe0f \ud83d\udcf8",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-05T11:50:47Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
