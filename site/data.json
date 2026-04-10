@@ -10655,6 +10655,15 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/18034832687",
       "year": 2026
+    },
+    {
+      "date": "2026-04-09",
+      "hour": 11,
+      "name": "Runna said to go fast, so I did! \ud83d\ude80",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18045076728",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -20349,6 +20358,15 @@
           "distance": 8112.3,
           "elevation_gain": 9.5,
           "moving_time": 2783.0
+        },
+        "2026-04-09": {
+          "activity_ids": [
+            "18045076728"
+          ],
+          "count": 1,
+          "distance": 8241.7,
+          "elevation_gain": 10.7,
+          "moving_time": 2613.0
         }
       },
       "WeightTraining": {
@@ -20537,7 +20555,7 @@
       }
     }
   },
-  "generated_at": "2026-04-09T16:15:01.846177+00:00",
+  "generated_at": "2026-04-10T15:44:13.974590+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/12822",
   "repo": "acaurora/git-sweaty",

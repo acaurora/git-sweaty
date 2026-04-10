@@ -15390,5 +15390,18 @@
     "start_date_local": "2026-04-08T16:46:09Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-04-09",
+    "distance": 8241.7,
+    "elevation_gain": 10.7,
+    "id": "18045076728",
+    "moving_time": 2613.0,
+    "name": "Runna said to go fast, so I did! \ud83d\ude80",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-09T11:01:58Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
