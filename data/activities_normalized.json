@@ -15403,5 +15403,18 @@
     "start_date_local": "2026-04-09T11:01:58Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-10",
+    "distance": 6562.6,
+    "elevation_gain": 45.1,
+    "id": "18060081333",
+    "moving_time": 2209.0,
+    "name": "To the Honda Odyssey with bumper stickers: [Keep Portland Weird][Baby On Board][Student Driver]",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-10T17:34:53Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
