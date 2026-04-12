@@ -15429,5 +15429,18 @@
     "start_date_local": "2026-04-11T17:20:01Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-04-12",
+    "distance": 19356.8,
+    "elevation_gain": 51.0,
+    "id": "18084066962",
+    "moving_time": 6414.0,
+    "name": "12mi Long Run with Jeremy",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-12T10:10:06Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
