@@ -15442,5 +15442,18 @@
     "start_date_local": "2026-04-12T10:10:06Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-13",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18098394414",
+    "moving_time": 2196.0,
+    "name": "Upper Body Strength with Runna \u2705",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-04-13T16:50:44Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
