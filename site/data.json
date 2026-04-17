@@ -10700,6 +10700,15 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/18098394414",
       "year": 2026
+    },
+    {
+      "date": "2026-04-16",
+      "hour": 11,
+      "name": "1km Repeats | Slight Work Related Rant",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18136886849",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -20421,6 +20430,15 @@
           "distance": 19356.8,
           "elevation_gain": 51.0,
           "moving_time": 6414.0
+        },
+        "2026-04-16": {
+          "activity_ids": [
+            "18136886849"
+          ],
+          "count": 1,
+          "distance": 10575.9,
+          "elevation_gain": 13.4,
+          "moving_time": 3462.0
         }
       },
       "WeightTraining": {
@@ -20627,7 +20645,7 @@
       }
     }
   },
-  "generated_at": "2026-04-16T16:18:20.213820+00:00",
+  "generated_at": "2026-04-17T15:54:47.355089+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/12822",
   "repo": "acaurora/git-sweaty",

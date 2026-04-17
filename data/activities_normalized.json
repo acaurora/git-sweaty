@@ -15455,5 +15455,18 @@
     "start_date_local": "2026-04-13T16:50:44Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-04-16",
+    "distance": 10575.9,
+    "elevation_gain": 13.4,
+    "id": "18136886849",
+    "moving_time": 3462.0,
+    "name": "1km Repeats | Slight Work Related Rant",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-16T11:52:41Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
