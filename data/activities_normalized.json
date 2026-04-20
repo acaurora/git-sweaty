@@ -15481,5 +15481,18 @@
     "start_date_local": "2026-04-18T12:59:33Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-19",
+    "distance": 6473.9,
+    "elevation_gain": 47.3,
+    "id": "18178306410",
+    "moving_time": 2183.0,
+    "name": "Sitting outside your apartment smoking while staring at your phone watching TikTok doesn\u2019t count as #touchinggrass",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-19T15:09:57Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
