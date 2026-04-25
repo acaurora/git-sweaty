@@ -10745,6 +10745,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18220363692",
       "year": 2026
+    },
+    {
+      "date": "2026-04-24",
+      "hour": 10,
+      "name": "3.25mi Easy Run Before Week Long Trip to \ud83c\udde8\ud83c\udde6",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18246740982",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -20502,6 +20511,15 @@
           "distance": 7445.3,
           "elevation_gain": 0.0,
           "moving_time": 2402.0
+        },
+        "2026-04-24": {
+          "activity_ids": [
+            "18246740982"
+          ],
+          "count": 1,
+          "distance": 5257.2,
+          "elevation_gain": 36.5,
+          "moving_time": 1824.0
         }
       },
       "WeightTraining": {
@@ -20717,7 +20735,7 @@
       }
     }
   },
-  "generated_at": "2026-04-24T16:00:56.385994+00:00",
+  "generated_at": "2026-04-25T15:35:12.129888+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/12822",
   "repo": "acaurora/git-sweaty",

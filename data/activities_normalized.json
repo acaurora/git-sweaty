@@ -15520,5 +15520,18 @@
     "start_date_local": "2026-04-22T18:40:16Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-24",
+    "distance": 5257.2,
+    "elevation_gain": 36.5,
+    "id": "18246740982",
+    "moving_time": 1824.0,
+    "name": "3.25mi Easy Run Before Week Long Trip to \ud83c\udde8\ud83c\udde6",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-24T10:54:19Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
