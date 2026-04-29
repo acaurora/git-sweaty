@@ -10754,6 +10754,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18246740982",
       "year": 2026
+    },
+    {
+      "date": "2026-04-29",
+      "hour": 2,
+      "name": "3.25mi Easy Run / Quick treadmill while in Toronto",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18303858430",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -20520,6 +20529,15 @@
           "distance": 5257.2,
           "elevation_gain": 36.5,
           "moving_time": 1824.0
+        },
+        "2026-04-29": {
+          "activity_ids": [
+            "18303858430"
+          ],
+          "count": 1,
+          "distance": 5233.7,
+          "elevation_gain": 0.0,
+          "moving_time": 1802.0
         }
       },
       "WeightTraining": {
@@ -20735,7 +20753,7 @@
       }
     }
   },
-  "generated_at": "2026-04-28T16:48:28.410342+00:00",
+  "generated_at": "2026-04-29T16:24:50.913266+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/12822",
   "repo": "acaurora/git-sweaty",
