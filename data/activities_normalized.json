@@ -15546,5 +15546,18 @@
     "start_date_local": "2026-04-29T02:59:49Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-01",
+    "distance": 5419.4,
+    "elevation_gain": 0.0,
+    "id": "18336547347",
+    "moving_time": 1918.0,
+    "name": "3.25mi Easy Run / Winding down the vacation and heading home tomorrow",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-01T10:33:36Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

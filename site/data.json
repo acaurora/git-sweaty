@@ -10763,6 +10763,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18303858430",
       "year": 2026
+    },
+    {
+      "date": "2026-05-01",
+      "hour": 10,
+      "name": "3.25mi Easy Run / Winding down the vacation and heading home tomorrow",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18336547347",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -20538,6 +20547,15 @@
           "distance": 5233.7,
           "elevation_gain": 0.0,
           "moving_time": 1802.0
+        },
+        "2026-05-01": {
+          "activity_ids": [
+            "18336547347"
+          ],
+          "count": 1,
+          "distance": 5419.4,
+          "elevation_gain": 0.0,
+          "moving_time": 1918.0
         }
       },
       "WeightTraining": {
@@ -20753,7 +20771,7 @@
       }
     }
   },
-  "generated_at": "2026-05-01T15:51:08.946766+00:00",
+  "generated_at": "2026-05-02T15:40:20.452903+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/12822",
   "repo": "acaurora/git-sweaty",
