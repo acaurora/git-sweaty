@@ -15559,5 +15559,18 @@
     "start_date_local": "2026-05-01T10:33:36Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-03",
+    "distance": 11329.6,
+    "elevation_gain": 87.0,
+    "id": "18362610953",
+    "moving_time": 3877.0,
+    "name": "7mi Long Run / Back in the USA \ud83c\uddfa\ud83c\uddf8 , with not quite the right shoes \ud83d\udc5f , real warm weather \ud83e\udd75 , and missing my \ud83d\ude0e . Oh well.",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-03T08:30:43Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
