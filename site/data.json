@@ -10781,6 +10781,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18362610953",
       "year": 2026
+    },
+    {
+      "date": "2026-05-05",
+      "hour": 6,
+      "name": "Legs & Core Strength with Runna \u2705",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/18385623149",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -20702,6 +20711,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 2196.0
+        },
+        "2026-05-05": {
+          "activity_ids": [
+            "18385623149"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1998.0
         }
       },
       "Workout": {
@@ -20789,7 +20807,7 @@
       }
     }
   },
-  "generated_at": "2026-05-04T16:27:36.680504+00:00",
+  "generated_at": "2026-05-05T16:20:49.495360+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/12822",
   "repo": "acaurora/git-sweaty",
