@@ -15585,5 +15585,18 @@
     "start_date_local": "2026-05-05T06:16:24Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-05-06",
+    "distance": 10324.8,
+    "elevation_gain": 125.5,
+    "id": "18406984062",
+    "moving_time": 3433.0,
+    "name": "Emptying the gas tank as I watch these golfers roll up in their Bentleys and Mercedes\u2026",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-06T17:39:10Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
