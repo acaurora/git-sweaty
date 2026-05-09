@@ -15611,5 +15611,18 @@
     "start_date_local": "2026-05-07T20:13:51Z",
     "type": "Workout",
     "year": 2026
+  },
+  {
+    "date": "2026-05-08",
+    "distance": 8871.3,
+    "elevation_gain": 10.3,
+    "id": "18429424575",
+    "moving_time": 3017.0,
+    "name": "5.5mi Easy Run / Slight headache, heavy legs.",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-08T11:19:29Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
