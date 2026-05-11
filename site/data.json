@@ -10817,6 +10817,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18429424575",
       "year": 2026
+    },
+    {
+      "date": "2026-05-10",
+      "hour": 10,
+      "name": "12mi Progressive Repeat Long Run / Realizing I just need cool weather and a bass-heavy soundtrack",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18456890260",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -20628,6 +20637,15 @@
           "distance": 8871.3,
           "elevation_gain": 10.3,
           "moving_time": 3017.0
+        },
+        "2026-05-10": {
+          "activity_ids": [
+            "18456890260"
+          ],
+          "count": 1,
+          "distance": 19362.7,
+          "elevation_gain": 82.8,
+          "moving_time": 6278.0
         }
       },
       "WeightTraining": {
@@ -20861,7 +20879,7 @@
       }
     }
   },
-  "generated_at": "2026-05-10T15:45:32.622296+00:00",
+  "generated_at": "2026-05-11T17:21:25.698633+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/12822",
   "repo": "acaurora/git-sweaty",

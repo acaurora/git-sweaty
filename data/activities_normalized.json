@@ -15624,5 +15624,18 @@
     "start_date_local": "2026-05-08T11:19:29Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-10",
+    "distance": 19362.7,
+    "elevation_gain": 82.8,
+    "id": "18456890260",
+    "moving_time": 6278.0,
+    "name": "12mi Progressive Repeat Long Run / Realizing I just need cool weather and a bass-heavy soundtrack",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-10T10:46:13Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
