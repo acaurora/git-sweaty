@@ -10835,6 +10835,15 @@
       "type": "Workout",
       "url": "https://www.strava.com/activities/18472029582",
       "year": 2026
+    },
+    {
+      "date": "2026-05-12",
+      "hour": 11,
+      "name": "Tempo 2.5mi / Flying on VaporFly Airways~",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18481623882",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -20655,6 +20664,15 @@
           "distance": 19362.7,
           "elevation_gain": 82.8,
           "moving_time": 6278.0
+        },
+        "2026-05-12": {
+          "activity_ids": [
+            "18481623882"
+          ],
+          "count": 1,
+          "distance": 8306.7,
+          "elevation_gain": 10.4,
+          "moving_time": 2583.0
         }
       },
       "WeightTraining": {
@@ -20897,7 +20915,7 @@
       }
     }
   },
-  "generated_at": "2026-05-12T17:04:33.072020+00:00",
+  "generated_at": "2026-05-13T17:11:49.956157+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/12822",
   "repo": "acaurora/git-sweaty",

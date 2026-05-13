@@ -15650,5 +15650,18 @@
     "start_date_local": "2026-05-11T19:24:09Z",
     "type": "Workout",
     "year": 2026
+  },
+  {
+    "date": "2026-05-12",
+    "distance": 8306.7,
+    "elevation_gain": 10.4,
+    "id": "18481623882",
+    "moving_time": 2583.0,
+    "name": "Tempo 2.5mi / Flying on VaporFly Airways~",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-12T11:17:54Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
