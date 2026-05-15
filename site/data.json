@@ -10844,6 +10844,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18481623882",
       "year": 2026
+    },
+    {
+      "date": "2026-05-14",
+      "hour": 11,
+      "name": "6.5mi Easy Run | To think I started running almost exactly a year ago",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18508259230",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -20673,6 +20682,15 @@
           "distance": 8306.7,
           "elevation_gain": 10.4,
           "moving_time": 2583.0
+        },
+        "2026-05-14": {
+          "activity_ids": [
+            "18508259230"
+          ],
+          "count": 1,
+          "distance": 10500.0,
+          "elevation_gain": 12.6,
+          "moving_time": 3600.0
         }
       },
       "WeightTraining": {
@@ -20915,7 +20933,7 @@
       }
     }
   },
-  "generated_at": "2026-05-14T16:57:29.064295+00:00",
+  "generated_at": "2026-05-15T04:39:28.314682+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/12822",
   "repo": "acaurora/git-sweaty",
