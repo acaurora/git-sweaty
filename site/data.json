@@ -10853,6 +10853,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18508259230",
       "year": 2026
+    },
+    {
+      "date": "2026-05-16",
+      "hour": 15,
+      "name": "Lower Body Strength Workout with Runna \u2705",
+      "subtype": "Workout",
+      "type": "Workout",
+      "url": "https://www.strava.com/activities/18535315752",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -20929,11 +20938,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 4098.0
+        },
+        "2026-05-16": {
+          "activity_ids": [
+            "18535315752"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1649.0
         }
       }
     }
   },
-  "generated_at": "2026-05-16T15:52:53.177737+00:00",
+  "generated_at": "2026-05-17T15:53:51.225380+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/12822",
   "repo": "acaurora/git-sweaty",
