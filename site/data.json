@@ -10871,6 +10871,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18548471242",
       "year": 2026
+    },
+    {
+      "date": "2026-05-18",
+      "hour": 19,
+      "name": "Upper Body Lift with Runna \u2705",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/18562915314",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -20855,6 +20864,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 1998.0
+        },
+        "2026-05-18": {
+          "activity_ids": [
+            "18562915314"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1947.0
         }
       },
       "Workout": {
@@ -20969,7 +20987,7 @@
       }
     }
   },
-  "generated_at": "2026-05-18T17:27:54.004499+00:00",
+  "generated_at": "2026-05-19T17:34:49.322160+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/12822",
   "repo": "acaurora/git-sweaty",
