@@ -15715,5 +15715,18 @@
     "start_date_local": "2026-05-18T19:40:44Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-05-19",
+    "distance": 9847.8,
+    "elevation_gain": 12.4,
+    "id": "18572792597",
+    "moving_time": 3064.0,
+    "name": "Over and Unders Miles / Sniffling my way through \ud83c\udf43 \ud83c\udf2c\ufe0f\ud83e\udd27",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-19T11:20:40Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
