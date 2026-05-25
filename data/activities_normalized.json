@@ -15754,5 +15754,31 @@
     "start_date_local": "2026-05-23T13:10:00Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-25",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18650147690",
+    "moving_time": 2512.0,
+    "name": "Lower Body Strength Session with Runna \u2705",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-05-25T08:48:13Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-25",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18650149620",
+    "moving_time": 2510.0,
+    "name": "Morning Workout",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-05-25T08:48:15Z",
+    "type": "Workout",
+    "year": 2026
   }
 ]
