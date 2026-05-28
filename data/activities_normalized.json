@@ -15793,5 +15793,18 @@
     "start_date_local": "2026-05-26T19:02:42Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-05-27",
+    "distance": 7958.1,
+    "elevation_gain": 10.3,
+    "id": "18679043082",
+    "moving_time": 2601.0,
+    "name": "K200s / Calibrating the turbos\u2026",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-27T10:46:54Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

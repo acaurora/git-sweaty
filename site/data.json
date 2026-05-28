@@ -10934,6 +10934,15 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/18669612516",
       "year": 2026
+    },
+    {
+      "date": "2026-05-27",
+      "hour": 10,
+      "name": "K200s / Calibrating the turbos\u2026",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18679043082",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -20808,6 +20817,15 @@
           "distance": 22559.6,
           "elevation_gain": 117.7,
           "moving_time": 7572.0
+        },
+        "2026-05-27": {
+          "activity_ids": [
+            "18679043082"
+          ],
+          "count": 1,
+          "distance": 7958.1,
+          "elevation_gain": 10.3,
+          "moving_time": 2601.0
         }
       },
       "WeightTraining": {
@@ -21087,7 +21105,7 @@
       }
     }
   },
-  "generated_at": "2026-05-27T17:54:35.867257+00:00",
+  "generated_at": "2026-05-28T17:59:46.229649+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/12822",
   "repo": "acaurora/git-sweaty",
