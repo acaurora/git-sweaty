@@ -10943,6 +10943,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18679043082",
       "year": 2026
+    },
+    {
+      "date": "2026-05-28",
+      "hour": 11,
+      "name": "5mi Easy Run / I don\u2019t need more shoes \u2026",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18693649672",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -20826,6 +20835,15 @@
           "distance": 7958.1,
           "elevation_gain": 10.3,
           "moving_time": 2601.0
+        },
+        "2026-05-28": {
+          "activity_ids": [
+            "18693649672"
+          ],
+          "count": 1,
+          "distance": 8068.4,
+          "elevation_gain": 9.4,
+          "moving_time": 2646.0
         }
       },
       "WeightTraining": {
@@ -21105,7 +21123,7 @@
       }
     }
   },
-  "generated_at": "2026-05-28T17:59:46.229649+00:00",
+  "generated_at": "2026-05-29T18:08:54.929630+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/12822",
   "repo": "acaurora/git-sweaty",

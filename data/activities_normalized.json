@@ -15806,5 +15806,18 @@
     "start_date_local": "2026-05-27T10:46:54Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-28",
+    "distance": 8068.4,
+    "elevation_gain": 9.4,
+    "id": "18693649672",
+    "moving_time": 2646.0,
+    "name": "5mi Easy Run / I don\u2019t need more shoes \u2026",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-28T11:16:32Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
