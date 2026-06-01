@@ -15819,5 +15819,18 @@
     "start_date_local": "2026-05-28T11:16:32Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-31",
+    "distance": 12087.0,
+    "elevation_gain": 20.8,
+    "id": "18732818622",
+    "moving_time": 3896.0,
+    "name": "7.5mi Long Run with Jeremy",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-31T09:35:30Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

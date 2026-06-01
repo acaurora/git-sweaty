@@ -10952,6 +10952,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18693649672",
       "year": 2026
+    },
+    {
+      "date": "2026-05-31",
+      "hour": 9,
+      "name": "7.5mi Long Run with Jeremy",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18732818622",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -20844,6 +20853,15 @@
           "distance": 8068.4,
           "elevation_gain": 9.4,
           "moving_time": 2646.0
+        },
+        "2026-05-31": {
+          "activity_ids": [
+            "18732818622"
+          ],
+          "count": 1,
+          "distance": 12087.0,
+          "elevation_gain": 20.8,
+          "moving_time": 3896.0
         }
       },
       "WeightTraining": {
@@ -21123,7 +21141,7 @@
       }
     }
   },
-  "generated_at": "2026-05-31T16:01:19.240239+00:00",
+  "generated_at": "2026-06-01T19:53:40.856895+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/12822",
   "repo": "acaurora/git-sweaty",
