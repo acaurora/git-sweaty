@@ -10961,6 +10961,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18732818622",
       "year": 2026
+    },
+    {
+      "date": "2026-06-02",
+      "hour": 10,
+      "name": "Tempo 4 Miles / Turning Up The Heat \ud83d\udd25",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18760197509",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -20862,6 +20871,15 @@
           "distance": 12087.0,
           "elevation_gain": 20.8,
           "moving_time": 3896.0
+        },
+        "2026-06-02": {
+          "activity_ids": [
+            "18760197509"
+          ],
+          "count": 1,
+          "distance": 10211.7,
+          "elevation_gain": 12.8,
+          "moving_time": 3258.0
         }
       },
       "WeightTraining": {
@@ -21141,7 +21159,7 @@
       }
     }
   },
-  "generated_at": "2026-06-02T18:35:48.410002+00:00",
+  "generated_at": "2026-06-03T18:40:57.122043+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/12822",
   "repo": "acaurora/git-sweaty",

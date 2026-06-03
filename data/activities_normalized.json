@@ -15832,5 +15832,18 @@
     "start_date_local": "2026-05-31T09:35:30Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-02",
+    "distance": 10211.7,
+    "elevation_gain": 12.8,
+    "id": "18760197509",
+    "moving_time": 3258.0,
+    "name": "Tempo 4 Miles / Turning Up The Heat \ud83d\udd25",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-02T10:47:47Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
