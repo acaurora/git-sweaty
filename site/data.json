@@ -10970,6 +10970,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18760197509",
       "year": 2026
+    },
+    {
+      "date": "2026-06-04",
+      "hour": 17,
+      "name": "Loading Up with Runna \u2705",
+      "subtype": "Workout",
+      "type": "Workout",
+      "url": "https://www.strava.com/activities/18791368366",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -21155,11 +21164,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 5022.0
+        },
+        "2026-06-04": {
+          "activity_ids": [
+            "18791368366"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1977.0
         }
       }
     }
   },
-  "generated_at": "2026-06-04T17:40:24.947629+00:00",
+  "generated_at": "2026-06-05T17:10:18.419680+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/12822",
   "repo": "acaurora/git-sweaty",
