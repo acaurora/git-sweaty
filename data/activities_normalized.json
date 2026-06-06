@@ -15858,5 +15858,18 @@
     "start_date_local": "2026-06-04T17:51:32Z",
     "type": "Workout",
     "year": 2026
+  },
+  {
+    "date": "2026-06-05",
+    "distance": 9676.6,
+    "elevation_gain": 9.8,
+    "id": "18800764707",
+    "moving_time": 3221.0,
+    "name": "6mi Easy Run / Cool, Breezy, slight drizzle.",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-05T11:15:01Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
