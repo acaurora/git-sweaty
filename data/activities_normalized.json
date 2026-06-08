@@ -15871,5 +15871,18 @@
     "start_date_local": "2026-06-05T11:15:01Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-07",
+    "distance": 20219.9,
+    "elevation_gain": 76.1,
+    "id": "18829244185",
+    "moving_time": 6518.0,
+    "name": "14mi Progressive Long Run with Jeremy / Took a Spill \ud83e\udd15",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-07T09:24:57Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

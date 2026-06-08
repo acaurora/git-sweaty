@@ -10988,6 +10988,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18800764707",
       "year": 2026
+    },
+    {
+      "date": "2026-06-07",
+      "hour": 9,
+      "name": "14mi Progressive Long Run with Jeremy / Took a Spill \ud83e\udd15",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18829244185",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -20907,6 +20916,15 @@
           "distance": 9676.6,
           "elevation_gain": 9.8,
           "moving_time": 3221.0
+        },
+        "2026-06-07": {
+          "activity_ids": [
+            "18829244185"
+          ],
+          "count": 1,
+          "distance": 20219.9,
+          "elevation_gain": 76.1,
+          "moving_time": 6518.0
         }
       },
       "WeightTraining": {
@@ -21195,7 +21213,7 @@
       }
     }
   },
-  "generated_at": "2026-06-07T16:09:53.753263+00:00",
+  "generated_at": "2026-06-08T17:46:45.215944+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/12822",
   "repo": "acaurora/git-sweaty",
