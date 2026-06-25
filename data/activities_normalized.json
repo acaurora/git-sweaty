@@ -15897,5 +15897,18 @@
     "start_date_local": "2026-06-22T19:53:19Z",
     "type": "Workout",
     "year": 2026
+  },
+  {
+    "date": "2026-06-24",
+    "distance": 5245.6,
+    "elevation_gain": 6.0,
+    "id": "19052862623",
+    "moving_time": 1710.0,
+    "name": "3.25mi Easy Run / Reset but hopefully not back to square 1",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-24T10:52:29Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

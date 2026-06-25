@@ -11006,6 +11006,15 @@
       "type": "Workout",
       "url": "https://www.strava.com/activities/19030271050",
       "year": 2026
+    },
+    {
+      "date": "2026-06-24",
+      "hour": 10,
+      "name": "3.25mi Easy Run / Reset but hopefully not back to square 1",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19052862623",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -20934,6 +20943,15 @@
           "distance": 20219.9,
           "elevation_gain": 76.1,
           "moving_time": 6518.0
+        },
+        "2026-06-24": {
+          "activity_ids": [
+            "19052862623"
+          ],
+          "count": 1,
+          "distance": 5245.6,
+          "elevation_gain": 6.0,
+          "moving_time": 1710.0
         }
       },
       "WeightTraining": {
@@ -21231,7 +21249,7 @@
       }
     }
   },
-  "generated_at": "2026-06-24T17:01:25.972620+00:00",
+  "generated_at": "2026-06-25T17:06:42.162411+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/12822",
   "repo": "acaurora/git-sweaty",
