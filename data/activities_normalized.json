@@ -15910,5 +15910,18 @@
     "start_date_local": "2026-06-24T10:52:29Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-26",
+    "distance": 10093.5,
+    "elevation_gain": 12.1,
+    "id": "19076809017",
+    "moving_time": 3307.0,
+    "name": "Ramping Back Up",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-26T10:52:55Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
