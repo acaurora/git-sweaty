@@ -11024,6 +11024,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/19076809017",
       "year": 2026
+    },
+    {
+      "date": "2026-06-28",
+      "hour": 9,
+      "name": "3mi Easy Run 1 of 2 for the day",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19100875380",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-28",
+      "hour": 9,
+      "name": "Sunday Morning Run 2 of 2 for the day",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19102781411",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -20970,6 +20988,16 @@
           "distance": 10093.5,
           "elevation_gain": 12.1,
           "moving_time": 3307.0
+        },
+        "2026-06-28": {
+          "activity_ids": [
+            "19100875380",
+            "19102781411"
+          ],
+          "count": 2,
+          "distance": 12540.6,
+          "elevation_gain": 107.4,
+          "moving_time": 4249.0
         }
       },
       "WeightTraining": {
@@ -21267,7 +21295,7 @@
       }
     }
   },
-  "generated_at": "2026-06-28T16:05:16.833663+00:00",
+  "generated_at": "2026-06-29T17:31:30.874090+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/12822",
   "repo": "acaurora/git-sweaty",

@@ -15923,5 +15923,31 @@
     "start_date_local": "2026-06-26T10:52:55Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-28",
+    "distance": 4828.6,
+    "elevation_gain": 45.7,
+    "id": "19100875380",
+    "moving_time": 1619.0,
+    "name": "3mi Easy Run 1 of 2 for the day",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-28T09:02:32Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-28",
+    "distance": 7712.0,
+    "elevation_gain": 61.7,
+    "id": "19102781411",
+    "moving_time": 2630.0,
+    "name": "Sunday Morning Run 2 of 2 for the day",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-28T09:30:28Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
