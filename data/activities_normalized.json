@@ -15949,5 +15949,18 @@
     "start_date_local": "2026-06-28T09:30:28Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-30",
+    "distance": 12893.3,
+    "elevation_gain": 15.8,
+    "id": "19128201695",
+    "moving_time": 4246.0,
+    "name": "8mi Easy Run / Giving the SuperBlasts another shot",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-30T10:53:04Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

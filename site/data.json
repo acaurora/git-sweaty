@@ -11042,6 +11042,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/19102781411",
       "year": 2026
+    },
+    {
+      "date": "2026-06-30",
+      "hour": 10,
+      "name": "8mi Easy Run / Giving the SuperBlasts another shot",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19128201695",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -20998,6 +21007,15 @@
           "distance": 12540.6,
           "elevation_gain": 107.4,
           "moving_time": 4249.0
+        },
+        "2026-06-30": {
+          "activity_ids": [
+            "19128201695"
+          ],
+          "count": 1,
+          "distance": 12893.3,
+          "elevation_gain": 15.8,
+          "moving_time": 4246.0
         }
       },
       "WeightTraining": {
@@ -21295,7 +21313,7 @@
       }
     }
   },
-  "generated_at": "2026-06-30T17:01:21.455754+00:00",
+  "generated_at": "2026-07-01T17:09:24.415534+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/12822",
   "repo": "acaurora/git-sweaty",
