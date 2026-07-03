@@ -15962,5 +15962,18 @@
     "start_date_local": "2026-06-30T10:53:04Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-02",
+    "distance": 13476.3,
+    "elevation_gain": 0.0,
+    "id": "19153615389",
+    "moving_time": 4537.0,
+    "name": "Pyramids suckkkkkk \u2026 but they\u2019re good for you?",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-02T09:33:14Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
