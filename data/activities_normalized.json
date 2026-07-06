@@ -15975,5 +15975,18 @@
     "start_date_local": "2026-07-02T09:33:14Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-05",
+    "distance": 19321.5,
+    "elevation_gain": 159.1,
+    "id": "19194568565",
+    "moving_time": 6464.0,
+    "name": "12mi Long Run / First long run after the fall",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-05T12:05:47Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
