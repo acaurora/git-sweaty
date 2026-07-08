@@ -16001,5 +16001,18 @@
     "start_date_local": "2026-07-06T19:11:15Z",
     "type": "Workout",
     "year": 2026
+  },
+  {
+    "date": "2026-07-07",
+    "distance": 12086.6,
+    "elevation_gain": 12.9,
+    "id": "19218553440",
+    "moving_time": 4271.0,
+    "name": "7.5mi Easy Run / Running chill/tempo means you don\u2019t feel absolutely destroyed at the end, who knew?!",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-07T10:18:55Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
