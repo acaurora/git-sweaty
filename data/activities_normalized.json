@@ -16014,5 +16014,18 @@
     "start_date_local": "2026-07-07T10:18:55Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-08",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19237239782",
+    "moving_time": 2325.0,
+    "name": "Strong Foundation with Runna \u2705",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-07-08T19:10:00Z",
+    "type": "Workout",
+    "year": 2026
   }
 ]
