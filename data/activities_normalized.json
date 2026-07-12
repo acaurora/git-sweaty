@@ -16040,5 +16040,18 @@
     "start_date_local": "2026-07-09T09:35:25Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-11",
+    "distance": 22549.1,
+    "elevation_gain": 87.8,
+    "id": "19273947257",
+    "moving_time": 7703.0,
+    "name": "14mi Block Long Run / Keepin it chill on the east side",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-11T11:28:33Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
