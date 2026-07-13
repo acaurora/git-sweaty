@@ -16053,5 +16053,18 @@
     "start_date_local": "2026-07-11T11:28:33Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-12",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19289792516",
+    "moving_time": 1750.0,
+    "name": "Upper Body Lift with Runna \u2705",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-07-12T20:57:51Z",
+    "type": "Workout",
+    "year": 2026
   }
 ]
