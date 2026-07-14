@@ -11123,6 +11123,15 @@
       "type": "Workout",
       "url": "https://www.strava.com/activities/19289792516",
       "year": 2026
+    },
+    {
+      "date": "2026-07-13",
+      "hour": 10,
+      "name": "Gait Restructuring",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19298155883",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -21133,6 +21142,15 @@
           "distance": 22549.1,
           "elevation_gain": 87.8,
           "moving_time": 7703.0
+        },
+        "2026-07-13": {
+          "activity_ids": [
+            "19298155883"
+          ],
+          "count": 1,
+          "distance": 4228.5,
+          "elevation_gain": 3.2,
+          "moving_time": 1354.0
         }
       },
       "WeightTraining": {
@@ -21457,7 +21475,7 @@
       }
     }
   },
-  "generated_at": "2026-07-13T17:09:26.389538+00:00",
+  "generated_at": "2026-07-14T16:09:47.853841+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/12822",
   "repo": "acaurora/git-sweaty",
