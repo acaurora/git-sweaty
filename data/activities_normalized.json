@@ -16092,5 +16092,18 @@
     "start_date_local": "2026-07-16T10:20:02Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-19",
+    "distance": 24153.0,
+    "elevation_gain": 87.5,
+    "id": "19381327595",
+    "moving_time": 8238.0,
+    "name": "Waterfront with a side of Sellwood - Pushing the mileage",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-19T09:13:57Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

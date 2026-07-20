@@ -11141,6 +11141,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/19339917646",
       "year": 2026
+    },
+    {
+      "date": "2026-07-19",
+      "hour": 9,
+      "name": "Waterfront with a side of Sellwood - Pushing the mileage",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19381327595",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -21169,6 +21178,15 @@
           "distance": 4473.0,
           "elevation_gain": 6.4,
           "moving_time": 1439.0
+        },
+        "2026-07-19": {
+          "activity_ids": [
+            "19381327595"
+          ],
+          "count": 1,
+          "distance": 24153.0,
+          "elevation_gain": 87.5,
+          "moving_time": 8238.0
         }
       },
       "WeightTraining": {
@@ -21493,7 +21511,7 @@
       }
     }
   },
-  "generated_at": "2026-07-19T15:51:40.221033+00:00",
+  "generated_at": "2026-07-20T16:20:58.174552+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/12822",
   "repo": "acaurora/git-sweaty",
