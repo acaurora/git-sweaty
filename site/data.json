@@ -11150,6 +11150,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/19381327595",
       "year": 2026
+    },
+    {
+      "date": "2026-07-20",
+      "hour": 19,
+      "name": "Portland Marathon Plan (Week 16/26)",
+      "subtype": "Workout",
+      "type": "Workout",
+      "url": "https://www.strava.com/activities/19397217910",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -21507,11 +21516,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 1750.0
+        },
+        "2026-07-20": {
+          "activity_ids": [
+            "19397217910"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1911.0
         }
       }
     }
   },
-  "generated_at": "2026-07-20T16:20:58.174552+00:00",
+  "generated_at": "2026-07-21T16:18:14.826762+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/12822",
   "repo": "acaurora/git-sweaty",

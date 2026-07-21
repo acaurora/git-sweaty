@@ -16105,5 +16105,18 @@
     "start_date_local": "2026-07-19T09:13:57Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-20",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19397217910",
+    "moving_time": 1911.0,
+    "name": "Portland Marathon Plan (Week 16/26)",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-07-20T19:27:44Z",
+    "type": "Workout",
+    "year": 2026
   }
 ]
