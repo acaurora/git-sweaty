@@ -16118,5 +16118,18 @@
     "start_date_local": "2026-07-20T19:27:44Z",
     "type": "Workout",
     "year": 2026
+  },
+  {
+    "date": "2026-07-21",
+    "distance": 8871.2,
+    "elevation_gain": 10.4,
+    "id": "19407388877",
+    "moving_time": 3074.0,
+    "name": "You got your corporate execs, you got your lab techs, and then you got me, sweating bullets in a tech tee and half tights.",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-21T10:19:18Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

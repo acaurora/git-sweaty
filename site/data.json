@@ -11159,6 +11159,15 @@
       "type": "Workout",
       "url": "https://www.strava.com/activities/19397217910",
       "year": 2026
+    },
+    {
+      "date": "2026-07-21",
+      "hour": 10,
+      "name": "You got your corporate execs, you got your lab techs, and then you got me, sweating bullets in a tech tee and half tights.",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19407388877",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -21196,6 +21205,15 @@
           "distance": 24153.0,
           "elevation_gain": 87.5,
           "moving_time": 8238.0
+        },
+        "2026-07-21": {
+          "activity_ids": [
+            "19407388877"
+          ],
+          "count": 1,
+          "distance": 8871.2,
+          "elevation_gain": 10.4,
+          "moving_time": 3074.0
         }
       },
       "WeightTraining": {
@@ -21529,7 +21547,7 @@
       }
     }
   },
-  "generated_at": "2026-07-21T16:18:14.826762+00:00",
+  "generated_at": "2026-07-22T16:16:36.060880+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/12822",
   "repo": "acaurora/git-sweaty",
