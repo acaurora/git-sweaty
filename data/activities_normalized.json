@@ -16144,5 +16144,18 @@
     "start_date_local": "2026-07-23T10:17:59Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-26",
+    "distance": 20901.0,
+    "elevation_gain": 57.1,
+    "id": "19477131264",
+    "moving_time": 6597.0,
+    "name": "17mi Hilly Progressive Repeat Long Run / Mission Failed",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-26T09:33:29Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

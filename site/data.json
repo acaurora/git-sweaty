@@ -11177,6 +11177,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/19435870009",
       "year": 2026
+    },
+    {
+      "date": "2026-07-26",
+      "hour": 9,
+      "name": "17mi Hilly Progressive Repeat Long Run / Mission Failed",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19477131264",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -21232,6 +21241,15 @@
           "distance": 9809.0,
           "elevation_gain": 9.6,
           "moving_time": 3092.0
+        },
+        "2026-07-26": {
+          "activity_ids": [
+            "19477131264"
+          ],
+          "count": 1,
+          "distance": 20901.0,
+          "elevation_gain": 57.1,
+          "moving_time": 6597.0
         }
       },
       "WeightTraining": {
@@ -21565,7 +21583,7 @@
       }
     }
   },
-  "generated_at": "2026-07-26T15:57:07.587211+00:00",
+  "generated_at": "2026-07-27T16:53:58.364281+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/12822",
   "repo": "acaurora/git-sweaty",
