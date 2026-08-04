@@ -11222,6 +11222,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/19561357560",
       "year": 2026
+    },
+    {
+      "date": "2026-08-03",
+      "hour": 19,
+      "name": "Upper Endurance Workout with Runna \u2705",
+      "subtype": "Workout",
+      "type": "Workout",
+      "url": "https://www.strava.com/activities/19591470994",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -21651,11 +21660,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 1682.0
+        },
+        "2026-08-03": {
+          "activity_ids": [
+            "19591470994"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2982.0
         }
       }
     }
   },
-  "generated_at": "2026-08-03T17:05:42.654926+00:00",
+  "generated_at": "2026-08-04T16:47:51.922040+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/12822",
   "repo": "acaurora/git-sweaty",
