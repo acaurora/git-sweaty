@@ -16235,5 +16235,18 @@
     "start_date_local": "2026-08-04T10:07:55Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-06",
+    "distance": 8168.3,
+    "elevation_gain": 0.0,
+    "id": "19627447491",
+    "moving_time": 2794.0,
+    "name": "Over and Unders Miles / +1 to the stable",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-06T06:09:02Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
