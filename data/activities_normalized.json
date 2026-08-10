@@ -16248,5 +16248,18 @@
     "start_date_local": "2026-08-06T06:09:02Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-09",
+    "distance": 25434.8,
+    "elevation_gain": 124.1,
+    "id": "19672076956",
+    "moving_time": 8478.0,
+    "name": "19mi Long Run / Banks Vernonia Doesn\u2019t Like Me",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-09T07:39:18Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
