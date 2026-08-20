@@ -16274,5 +16274,18 @@
     "start_date_local": "2026-08-16T08:39:39Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-19",
+    "distance": 6442.6,
+    "elevation_gain": 46.9,
+    "id": "19812534207",
+    "moving_time": 2037.0,
+    "name": "Turbo Lap Around the Block / Brooks Hyperion Elite 6",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-19T10:00:03Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
