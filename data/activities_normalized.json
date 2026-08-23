@@ -16300,5 +16300,18 @@
     "start_date_local": "2026-08-21T12:11:23Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-22",
+    "distance": 6501.9,
+    "elevation_gain": 47.5,
+    "id": "19856647072",
+    "moving_time": 2041.0,
+    "name": "Turbo Lap Around the Hood",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-22T14:37:06Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
