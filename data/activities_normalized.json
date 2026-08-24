@@ -16313,5 +16313,18 @@
     "start_date_local": "2026-08-22T14:37:06Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-23",
+    "distance": 14511.7,
+    "elevation_gain": 95.4,
+    "id": "19869577107",
+    "moving_time": 4790.0,
+    "name": "9mi Long Run / Doing 9\u2019s for 9",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-23T10:06:21Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
