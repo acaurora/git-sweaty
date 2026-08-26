@@ -16339,5 +16339,18 @@
     "start_date_local": "2026-08-24T17:28:49Z",
     "type": "Workout",
     "year": 2026
+  },
+  {
+    "date": "2026-08-25",
+    "distance": 6050.1,
+    "elevation_gain": 7.2,
+    "id": "19896983598",
+    "moving_time": 2007.0,
+    "name": "3.75mi Easy Run / Another Day, Another Work Jog",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-25T10:22:29Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

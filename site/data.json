@@ -11312,6 +11312,15 @@
       "type": "Workout",
       "url": "https://www.strava.com/activities/19886289680",
       "year": 2026
+    },
+    {
+      "date": "2026-08-25",
+      "hour": 10,
+      "name": "3.75mi Easy Run / Another Day, Another Work Jog",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19896983598",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -21475,6 +21484,15 @@
           "distance": 14511.7,
           "elevation_gain": 95.4,
           "moving_time": 4790.0
+        },
+        "2026-08-25": {
+          "activity_ids": [
+            "19896983598"
+          ],
+          "count": 1,
+          "distance": 6050.1,
+          "elevation_gain": 7.2,
+          "moving_time": 2007.0
         }
       },
       "WeightTraining": {
@@ -21835,7 +21853,7 @@
       }
     }
   },
-  "generated_at": "2026-08-25T15:35:44.574273+00:00",
+  "generated_at": "2026-08-26T16:12:22.800132+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/12822",
   "repo": "acaurora/git-sweaty",
