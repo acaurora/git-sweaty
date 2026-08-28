@@ -16352,5 +16352,18 @@
     "start_date_local": "2026-08-25T10:22:29Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-26",
+    "distance": 8062.6,
+    "elevation_gain": 9.7,
+    "id": "19912140743",
+    "moving_time": 2628.0,
+    "name": "5mi Easy Run / Breezy Wednesday Work Miles",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-26T10:20:19Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
