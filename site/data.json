@@ -11339,6 +11339,15 @@
       "type": "Workout",
       "url": "https://www.strava.com/activities/19930354913",
       "year": 2026
+    },
+    {
+      "date": "2026-08-29",
+      "hour": 7,
+      "name": "Over and Unders 1km / Pre-ParkRun amp up",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19950339184",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -21520,6 +21529,15 @@
           "distance": 8062.6,
           "elevation_gain": 9.7,
           "moving_time": 2628.0
+        },
+        "2026-08-29": {
+          "activity_ids": [
+            "19950339184"
+          ],
+          "count": 1,
+          "distance": 6514.7,
+          "elevation_gain": 0.0,
+          "moving_time": 2040.0
         }
       },
       "WeightTraining": {
@@ -21889,7 +21907,7 @@
       }
     }
   },
-  "generated_at": "2026-08-28T23:48:34.589801+00:00",
+  "generated_at": "2026-08-29T18:06:15.100572+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/12822",
   "repo": "acaurora/git-sweaty",
