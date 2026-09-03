@@ -11375,6 +11375,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/19995089255",
       "year": 2026
+    },
+    {
+      "date": "2026-09-02",
+      "hour": 19,
+      "name": "Legs & Core Supersets with Runna \u2705",
+      "subtype": "Workout",
+      "type": "Workout",
+      "url": "https://www.strava.com/activities/20014292073",
+      "year": 2026
+    },
+    {
+      "date": "2026-09-03",
+      "hour": 6,
+      "name": "1km Repeats / Faulty HR Strap Strikes Again!",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20020448127",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -21583,6 +21601,15 @@
           "distance": 9684.8,
           "elevation_gain": 11.9,
           "moving_time": 3263.0
+        },
+        "2026-09-03": {
+          "activity_ids": [
+            "20020448127"
+          ],
+          "count": 1,
+          "distance": 7746.8,
+          "elevation_gain": 0.0,
+          "moving_time": 2559.0
         }
       },
       "WeightTraining": {
@@ -21957,11 +21984,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 2128.0
+        },
+        "2026-09-02": {
+          "activity_ids": [
+            "20014292073"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1862.0
         }
       }
     }
   },
-  "generated_at": "2026-09-02T18:19:04.721884+00:00",
+  "generated_at": "2026-09-03T18:16:51.484012+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/12822",
   "repo": "acaurora/git-sweaty",

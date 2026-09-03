@@ -16430,5 +16430,31 @@
     "start_date_local": "2026-09-01T10:45:49Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-02",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20014292073",
+    "moving_time": 1862.0,
+    "name": "Legs & Core Supersets with Runna \u2705",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-09-02T19:03:26Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-03",
+    "distance": 7746.8,
+    "elevation_gain": 0.0,
+    "id": "20020448127",
+    "moving_time": 2559.0,
+    "name": "1km Repeats / Faulty HR Strap Strikes Again!",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-03T06:29:42Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
