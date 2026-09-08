@@ -16469,5 +16469,31 @@
     "start_date_local": "2026-09-05T11:32:35Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-07",
+    "distance": 32203.2,
+    "elevation_gain": 83.5,
+    "id": "20079984979",
+    "moving_time": 11843.0,
+    "name": "20mi Hilly Progressive Long Run / Finishing not quite as an empty shell of a man as last time",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-07T10:30:36Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-08",
+    "distance": 6449.0,
+    "elevation_gain": 6.3,
+    "id": "20091812407",
+    "moving_time": 2254.0,
+    "name": "4mi Easy Run / Tuesday Turmoil",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-08T10:09:39Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

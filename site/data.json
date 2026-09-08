@@ -11402,6 +11402,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20051504990",
       "year": 2026
+    },
+    {
+      "date": "2026-09-07",
+      "hour": 10,
+      "name": "20mi Hilly Progressive Long Run / Finishing not quite as an empty shell of a man as last time",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20079984979",
+      "year": 2026
+    },
+    {
+      "date": "2026-09-08",
+      "hour": 10,
+      "name": "4mi Easy Run / Tuesday Turmoil",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20091812407",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -21628,6 +21646,24 @@
           "distance": 5233.1,
           "elevation_gain": 0.0,
           "moving_time": 1724.0
+        },
+        "2026-09-07": {
+          "activity_ids": [
+            "20079984979"
+          ],
+          "count": 1,
+          "distance": 32203.2,
+          "elevation_gain": 83.5,
+          "moving_time": 11843.0
+        },
+        "2026-09-08": {
+          "activity_ids": [
+            "20091812407"
+          ],
+          "count": 1,
+          "distance": 6449.0,
+          "elevation_gain": 6.3,
+          "moving_time": 2254.0
         }
       },
       "WeightTraining": {
@@ -22015,7 +22051,7 @@
       }
     }
   },
-  "generated_at": "2026-09-07T18:56:58.434931+00:00",
+  "generated_at": "2026-09-08T18:14:10.909979+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/12822",
   "repo": "acaurora/git-sweaty",
