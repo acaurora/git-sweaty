@@ -16495,5 +16495,18 @@
     "start_date_local": "2026-09-08T10:09:39Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-09",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20110769142",
+    "moving_time": 2799.0,
+    "name": "Lower Lower Body Supersets with Runna \u2705 / iPhone Duo \ud83e\udd14",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-09-09T17:28:23Z",
+    "type": "Workout",
+    "year": 2026
   }
 ]
