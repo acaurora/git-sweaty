@@ -16508,5 +16508,31 @@
     "start_date_local": "2026-09-09T17:28:23Z",
     "type": "Workout",
     "year": 2026
+  },
+  {
+    "date": "2026-09-10",
+    "distance": 8255.8,
+    "elevation_gain": 0.0,
+    "id": "20121090241",
+    "moving_time": 2561.0,
+    "name": "Tempo 3 Miles / Full Turbo",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-10T11:13:56Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-11",
+    "distance": 8112.4,
+    "elevation_gain": 9.4,
+    "id": "20133289407",
+    "moving_time": 2846.0,
+    "name": "5mi Easy Run / Easy Tempo Before Last Long Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-11T09:46:41Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
