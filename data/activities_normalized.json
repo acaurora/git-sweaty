@@ -16534,5 +16534,18 @@
     "start_date_local": "2026-09-11T09:46:41Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-12",
+    "distance": 30228.8,
+    "elevation_gain": 162.1,
+    "id": "20147935845",
+    "moving_time": 10826.0,
+    "name": "22mi Hilly Long Run / Hosted By Foot Traffic",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-12T07:40:26Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
