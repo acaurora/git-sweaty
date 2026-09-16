@@ -11456,6 +11456,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20147935845",
       "year": 2026
+    },
+    {
+      "date": "2026-09-15",
+      "hour": 16,
+      "name": "Upper Body Supersets with Runna \u2705",
+      "subtype": "Workout",
+      "type": "Workout",
+      "url": "https://www.strava.com/activities/20193037156",
+      "year": 2026
+    },
+    {
+      "date": "2026-09-16",
+      "hour": 10,
+      "name": "Tempo 2 Miles",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20203786903",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -21727,6 +21745,15 @@
           "distance": 30228.8,
           "elevation_gain": 162.1,
           "moving_time": 10826.0
+        },
+        "2026-09-16": {
+          "activity_ids": [
+            "20203786903"
+          ],
+          "count": 1,
+          "distance": 8278.0,
+          "elevation_gain": 10.1,
+          "moving_time": 2702.0
         }
       },
       "WeightTraining": {
@@ -22119,11 +22146,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 2799.0
+        },
+        "2026-09-15": {
+          "activity_ids": [
+            "20193037156"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2602.0
         }
       }
     }
   },
-  "generated_at": "2026-09-15T18:39:02.560036+00:00",
+  "generated_at": "2026-09-16T18:35:57.667185+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/12822",
   "repo": "acaurora/git-sweaty",

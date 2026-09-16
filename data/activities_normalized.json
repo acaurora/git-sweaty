@@ -16547,5 +16547,31 @@
     "start_date_local": "2026-09-12T07:40:26Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-15",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20193037156",
+    "moving_time": 2602.0,
+    "name": "Upper Body Supersets with Runna \u2705",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-09-15T16:13:02Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-16",
+    "distance": 8278.0,
+    "elevation_gain": 10.1,
+    "id": "20203786903",
+    "moving_time": 2702.0,
+    "name": "Tempo 2 Miles",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-16T10:21:51Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
