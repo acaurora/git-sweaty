@@ -11483,6 +11483,24 @@
       "type": "Workout",
       "url": "https://www.strava.com/activities/20222311188",
       "year": 2026
+    },
+    {
+      "date": "2026-09-18",
+      "hour": 11,
+      "name": "5mi Easy Run / Day 1 of 3, Miles 5 of 23.",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20231008470",
+      "year": 2026
+    },
+    {
+      "date": "2026-09-19",
+      "hour": 7,
+      "name": "4mi Easy Run / Day 2 of 3, Mile 9 of 23",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20242512844",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -21763,6 +21781,24 @@
           "distance": 8278.0,
           "elevation_gain": 10.1,
           "moving_time": 2702.0
+        },
+        "2026-09-18": {
+          "activity_ids": [
+            "20231008470"
+          ],
+          "count": 1,
+          "distance": 8076.5,
+          "elevation_gain": 9.5,
+          "moving_time": 2784.0
+        },
+        "2026-09-19": {
+          "activity_ids": [
+            "20242512844"
+          ],
+          "count": 1,
+          "distance": 6460.2,
+          "elevation_gain": 38.9,
+          "moving_time": 2136.0
         }
       },
       "WeightTraining": {
@@ -22177,7 +22213,7 @@
       }
     }
   },
-  "generated_at": "2026-09-18T18:00:17.425839+00:00",
+  "generated_at": "2026-09-19T17:39:37.728199+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/12822",
   "repo": "acaurora/git-sweaty",

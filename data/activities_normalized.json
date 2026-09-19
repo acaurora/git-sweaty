@@ -16586,5 +16586,31 @@
     "start_date_local": "2026-09-17T19:56:26Z",
     "type": "Workout",
     "year": 2026
+  },
+  {
+    "date": "2026-09-18",
+    "distance": 8076.5,
+    "elevation_gain": 9.5,
+    "id": "20231008470",
+    "moving_time": 2784.0,
+    "name": "5mi Easy Run / Day 1 of 3, Miles 5 of 23.",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-18T11:12:44Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-19",
+    "distance": 6460.2,
+    "elevation_gain": 38.9,
+    "id": "20242512844",
+    "moving_time": 2136.0,
+    "name": "4mi Easy Run / Day 2 of 3, Mile 9 of 23",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-19T07:44:42Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
