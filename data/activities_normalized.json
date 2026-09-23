@@ -16638,5 +16638,18 @@
     "start_date_local": "2026-09-21T18:39:27Z",
     "type": "Workout",
     "year": 2026
+  },
+  {
+    "date": "2026-09-22",
+    "distance": 8063.4,
+    "elevation_gain": 9.3,
+    "id": "20288810785",
+    "moving_time": 2617.0,
+    "name": "5mi Easy Run / I AM THE HAMMER \ud83d\udd28",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-22T15:00:04Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
