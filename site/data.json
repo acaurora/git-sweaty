@@ -11537,6 +11537,15 @@
       "type": "Workout",
       "url": "https://www.strava.com/activities/20305007732",
       "year": 2026
+    },
+    {
+      "date": "2026-09-25",
+      "hour": 6,
+      "name": "4.5mi Easy Run / Counting Down To Race Day",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20324373521",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -21853,6 +21862,15 @@
           "distance": 8063.4,
           "elevation_gain": 9.3,
           "moving_time": 2617.0
+        },
+        "2026-09-25": {
+          "activity_ids": [
+            "20324373521"
+          ],
+          "count": 1,
+          "distance": 7244.1,
+          "elevation_gain": 0.0,
+          "moving_time": 2481.0
         }
       },
       "WeightTraining": {
@@ -22285,7 +22303,7 @@
       }
     }
   },
-  "generated_at": "2026-09-24T18:46:41.149888+00:00",
+  "generated_at": "2026-09-25T19:04:22.432697+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/12822",
   "repo": "acaurora/git-sweaty",
