@@ -11546,6 +11546,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20324373521",
       "year": 2026
+    },
+    {
+      "date": "2026-09-27",
+      "hour": 8,
+      "name": "8.5mi Race Practice Long Run / Turbos at Max",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20355122124",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -21871,6 +21880,15 @@
           "distance": 7244.1,
           "elevation_gain": 0.0,
           "moving_time": 2481.0
+        },
+        "2026-09-27": {
+          "activity_ids": [
+            "20355122124"
+          ],
+          "count": 1,
+          "distance": 13703.8,
+          "elevation_gain": 95.7,
+          "moving_time": 4274.0
         }
       },
       "WeightTraining": {
@@ -22303,7 +22321,7 @@
       }
     }
   },
-  "generated_at": "2026-09-26T18:12:46.828608+00:00",
+  "generated_at": "2026-09-27T18:50:02.787003+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/12822",
   "repo": "acaurora/git-sweaty",
