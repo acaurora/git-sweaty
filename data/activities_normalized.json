@@ -16690,5 +16690,18 @@
     "start_date_local": "2026-09-27T08:50:29Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-29",
+    "distance": 7251.6,
+    "elevation_gain": 8.8,
+    "id": "20382089997",
+    "moving_time": 2385.0,
+    "name": "4.5mi Easy Run / Countdown to Race Day",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-29T10:11:45Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
