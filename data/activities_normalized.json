@@ -16703,5 +16703,18 @@
     "start_date_local": "2026-09-29T10:11:45Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-01",
+    "distance": 8867.6,
+    "elevation_gain": 9.4,
+    "id": "20410484068",
+    "moving_time": 2752.0,
+    "name": "Taper Two Miler / T MINUS 3 DAYS",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-01T10:10:48Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

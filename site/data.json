@@ -11564,6 +11564,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20382089997",
       "year": 2026
+    },
+    {
+      "date": "2026-10-01",
+      "hour": 10,
+      "name": "Taper Two Miler / T MINUS 3 DAYS",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20410484068",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -21907,6 +21916,15 @@
           "distance": 7251.6,
           "elevation_gain": 8.8,
           "moving_time": 2385.0
+        },
+        "2026-10-01": {
+          "activity_ids": [
+            "20410484068"
+          ],
+          "count": 1,
+          "distance": 8867.6,
+          "elevation_gain": 9.4,
+          "moving_time": 2752.0
         }
       },
       "WeightTraining": {
@@ -22339,7 +22357,7 @@
       }
     }
   },
-  "generated_at": "2026-09-30T19:46:06.132567+00:00",
+  "generated_at": "2026-10-01T20:02:44.654713+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/12822",
   "repo": "acaurora/git-sweaty",
