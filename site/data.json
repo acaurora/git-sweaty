@@ -11573,6 +11573,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20410484068",
       "year": 2026
+    },
+    {
+      "date": "2026-10-04",
+      "hour": 7,
+      "name": "Portland Marathon #wediditjoe",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20452510441",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -21925,6 +21934,15 @@
           "distance": 8867.6,
           "elevation_gain": 9.4,
           "moving_time": 2752.0
+        },
+        "2026-10-04": {
+          "activity_ids": [
+            "20452510441"
+          ],
+          "count": 1,
+          "distance": 43414.7,
+          "elevation_gain": 283.7,
+          "moving_time": 16179.0
         }
       },
       "WeightTraining": {
@@ -22357,7 +22375,7 @@
       }
     }
   },
-  "generated_at": "2026-10-04T18:29:45.034260+00:00",
+  "generated_at": "2026-10-05T21:45:57.910209+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/12822",
   "repo": "acaurora/git-sweaty",

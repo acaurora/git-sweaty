@@ -16716,5 +16716,18 @@
     "start_date_local": "2026-10-01T10:10:48Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-04",
+    "distance": 43414.7,
+    "elevation_gain": 283.7,
+    "id": "20452510441",
+    "moving_time": 16179.0,
+    "name": "Portland Marathon #wediditjoe",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-04T07:28:22Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
