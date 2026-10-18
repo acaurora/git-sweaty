@@ -11582,6 +11582,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20452510441",
       "year": 2026
+    },
+    {
+      "date": "2026-10-18",
+      "hour": 8,
+      "name": "Tempo 10K+, testing the legs with Jeremy",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20638326137",
+      "year": 2026
+    },
+    {
+      "date": "2026-10-18",
+      "hour": 9,
+      "name": "Recovery",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20638526349",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -21943,6 +21961,16 @@
           "distance": 43414.7,
           "elevation_gain": 283.7,
           "moving_time": 16179.0
+        },
+        "2026-10-18": {
+          "activity_ids": [
+            "20638326137",
+            "20638526349"
+          ],
+          "count": 2,
+          "distance": 14574.099999999999,
+          "elevation_gain": 96.7,
+          "moving_time": 4792.0
         }
       },
       "WeightTraining": {
@@ -22375,7 +22403,7 @@
       }
     }
   },
-  "generated_at": "2026-10-17T17:41:04.661682+00:00",
+  "generated_at": "2026-10-18T17:43:01.037093+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/12822",
   "repo": "acaurora/git-sweaty",

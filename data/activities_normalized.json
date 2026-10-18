@@ -16729,5 +16729,31 @@
     "start_date_local": "2026-10-04T07:28:22Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-18",
+    "distance": 12078.3,
+    "elevation_gain": 85.3,
+    "id": "20638326137",
+    "moving_time": 3987.0,
+    "name": "Tempo 10K+, testing the legs with Jeremy",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-18T08:26:30Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-18",
+    "distance": 2495.8,
+    "elevation_gain": 11.4,
+    "id": "20638526349",
+    "moving_time": 805.0,
+    "name": "Recovery",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-18T09:55:40Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
