@@ -16755,5 +16755,18 @@
     "start_date_local": "2026-10-18T09:55:40Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-20",
+    "distance": 6454.3,
+    "elevation_gain": 7.0,
+    "id": "20664223353",
+    "moving_time": 2227.0,
+    "name": "4mi Easy Run / Keeping it Calm",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-20T09:58:35Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
