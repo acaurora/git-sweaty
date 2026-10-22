@@ -11609,6 +11609,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20664223353",
       "year": 2026
+    },
+    {
+      "date": "2026-10-21",
+      "hour": 19,
+      "name": "Strong Foundation with Runna \u2705",
+      "subtype": "Workout",
+      "type": "Workout",
+      "url": "https://www.strava.com/activities/20683157533",
+      "year": 2026
+    },
+    {
+      "date": "2026-10-22",
+      "hour": 10,
+      "name": "400m Repeats / Lighting the matches \ud83d\udd25",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20691992766",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -21989,6 +22007,15 @@
           "distance": 6454.3,
           "elevation_gain": 7.0,
           "moving_time": 2227.0
+        },
+        "2026-10-22": {
+          "activity_ids": [
+            "20691992766"
+          ],
+          "count": 1,
+          "distance": 9017.4,
+          "elevation_gain": 10.1,
+          "moving_time": 2986.0
         }
       },
       "WeightTraining": {
@@ -22417,11 +22444,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 1301.0
+        },
+        "2026-10-21": {
+          "activity_ids": [
+            "20683157533"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3123.0
         }
       }
     }
   },
-  "generated_at": "2026-10-21T19:03:43.488804+00:00",
+  "generated_at": "2026-10-22T18:59:47.340648+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/12822",
   "repo": "acaurora/git-sweaty",
