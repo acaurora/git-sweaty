@@ -16794,5 +16794,18 @@
     "start_date_local": "2026-10-22T10:47:33Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-23",
+    "distance": 6452.9,
+    "elevation_gain": 6.3,
+    "id": "20704018919",
+    "moving_time": 2162.0,
+    "name": "4mi Easy Run / Easy Friday",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-23T11:35:01Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
