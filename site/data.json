@@ -11654,6 +11654,15 @@
       "type": "Workout",
       "url": "https://www.strava.com/activities/20732823366",
       "year": 2026
+    },
+    {
+      "date": "2026-10-27",
+      "hour": 10,
+      "name": "5.5mi Easy Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20754985717",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -22061,6 +22070,15 @@
           "distance": 12616.4,
           "elevation_gain": 23.1,
           "moving_time": 3928.0
+        },
+        "2026-10-27": {
+          "activity_ids": [
+            "20754985717"
+          ],
+          "count": 1,
+          "distance": 8857.7,
+          "elevation_gain": 10.1,
+          "moving_time": 2995.0
         }
       },
       "WeightTraining": {
@@ -22511,7 +22529,7 @@
       }
     }
   },
-  "generated_at": "2026-10-26T20:14:48.073174+00:00",
+  "generated_at": "2026-10-27T19:46:26.020982+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/12822",
   "repo": "acaurora/git-sweaty",
