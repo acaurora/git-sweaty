@@ -16846,5 +16846,18 @@
     "start_date_local": "2026-10-27T10:52:00Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-29",
+    "distance": 8221.5,
+    "elevation_gain": 9.5,
+    "id": "20782487185",
+    "moving_time": 2612.0,
+    "name": "Rolling 400s / 2 Fast 2 Furious",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-29T11:24:16Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

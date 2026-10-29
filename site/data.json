@@ -11663,6 +11663,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20754985717",
       "year": 2026
+    },
+    {
+      "date": "2026-10-29",
+      "hour": 11,
+      "name": "Rolling 400s / 2 Fast 2 Furious",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20782487185",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -22079,6 +22088,15 @@
           "distance": 8857.7,
           "elevation_gain": 10.1,
           "moving_time": 2995.0
+        },
+        "2026-10-29": {
+          "activity_ids": [
+            "20782487185"
+          ],
+          "count": 1,
+          "distance": 8221.5,
+          "elevation_gain": 9.5,
+          "moving_time": 2612.0
         }
       },
       "WeightTraining": {
@@ -22529,7 +22547,7 @@
       }
     }
   },
-  "generated_at": "2026-10-28T20:01:18.618964+00:00",
+  "generated_at": "2026-10-29T20:00:25.893347+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/12822",
   "repo": "acaurora/git-sweaty",
