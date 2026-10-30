@@ -16859,5 +16859,31 @@
     "start_date_local": "2026-10-29T11:24:16Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-29",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20786543954",
+    "moving_time": 1776.0,
+    "name": "Legs & Core Strength with Runna \u2705",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-10-29T20:04:36Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-30",
+    "distance": 6043.9,
+    "elevation_gain": 6.3,
+    "id": "20794746044",
+    "moving_time": 2004.0,
+    "name": "3.75mi Easy Run / Frigid Friday \ud83e\udd76",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-30T11:03:40Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
