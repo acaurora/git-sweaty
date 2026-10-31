@@ -16885,5 +16885,18 @@
     "start_date_local": "2026-10-30T11:03:40Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-30",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20798346269",
+    "moving_time": 1456.0,
+    "name": "Stronger Upper Body with Runna \u2705",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-10-30T19:33:02Z",
+    "type": "Workout",
+    "year": 2026
   }
 ]
