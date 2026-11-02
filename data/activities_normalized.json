@@ -16898,5 +16898,18 @@
     "start_date_local": "2026-10-30T19:33:02Z",
     "type": "Workout",
     "year": 2026
+  },
+  {
+    "date": "2026-11-01",
+    "distance": 13705.7,
+    "elevation_gain": 89.0,
+    "id": "20823298614",
+    "moving_time": 4613.0,
+    "name": "8.5mi Long Run / Afternoon Chilly \ud83e\udd76",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-01T13:24:33Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
