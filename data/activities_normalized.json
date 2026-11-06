@@ -16937,5 +16937,31 @@
     "start_date_local": "2026-11-05T10:00:55Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-11-05",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20877502345",
+    "moving_time": 1976.0,
+    "name": "Lower Body Strength Workout with Runna \u2705",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-11-05T17:03:02Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-06",
+    "distance": 5643.5,
+    "elevation_gain": 6.3,
+    "id": "20885975393",
+    "moving_time": 1906.0,
+    "name": "3.5mi Easy Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-06T10:24:39Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
