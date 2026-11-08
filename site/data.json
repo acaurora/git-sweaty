@@ -11744,6 +11744,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20885975393",
       "year": 2026
+    },
+    {
+      "date": "2026-11-08",
+      "hour": 9,
+      "name": "5mi Long Run / Sunday Cruising \ud83c\udf41",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20912301062",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -22205,6 +22214,15 @@
           "distance": 5643.5,
           "elevation_gain": 6.3,
           "moving_time": 1906.0
+        },
+        "2026-11-08": {
+          "activity_ids": [
+            "20912301062"
+          ],
+          "count": 1,
+          "distance": 8058.9,
+          "elevation_gain": 55.0,
+          "moving_time": 2688.0
         }
       },
       "WeightTraining": {
@@ -22691,7 +22709,7 @@
       }
     }
   },
-  "generated_at": "2026-11-07T19:13:53.132438+00:00",
+  "generated_at": "2026-11-08T19:16:17.953202+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/12822",
   "repo": "acaurora/git-sweaty",

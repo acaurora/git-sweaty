@@ -16963,5 +16963,18 @@
     "start_date_local": "2026-11-06T10:24:39Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-11-08",
+    "distance": 8058.9,
+    "elevation_gain": 55.0,
+    "id": "20912301062",
+    "moving_time": 2688.0,
+    "name": "5mi Long Run / Sunday Cruising \ud83c\udf41",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-08T09:13:17Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
