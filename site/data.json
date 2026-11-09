@@ -11753,6 +11753,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20912301062",
       "year": 2026
+    },
+    {
+      "date": "2026-11-09",
+      "hour": 9,
+      "name": "4mi Easy Run / Getting the run in before the \u2614\ufe0f",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20923085759",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -22223,6 +22232,15 @@
           "distance": 8058.9,
           "elevation_gain": 55.0,
           "moving_time": 2688.0
+        },
+        "2026-11-09": {
+          "activity_ids": [
+            "20923085759"
+          ],
+          "count": 1,
+          "distance": 6451.6,
+          "elevation_gain": 7.0,
+          "moving_time": 2176.0
         }
       },
       "WeightTraining": {
@@ -22709,7 +22727,7 @@
       }
     }
   },
-  "generated_at": "2026-11-08T19:16:17.953202+00:00",
+  "generated_at": "2026-11-09T23:39:53.792693+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/12822",
   "repo": "acaurora/git-sweaty",

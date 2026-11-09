@@ -16976,5 +16976,18 @@
     "start_date_local": "2026-11-08T09:13:17Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-11-09",
+    "distance": 6451.6,
+    "elevation_gain": 7.0,
+    "id": "20923085759",
+    "moving_time": 2176.0,
+    "name": "4mi Easy Run / Getting the run in before the \u2614\ufe0f",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-09T09:22:59Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
