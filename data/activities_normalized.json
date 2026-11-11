@@ -17002,5 +17002,18 @@
     "start_date_local": "2026-11-09T17:13:42Z",
     "type": "Workout",
     "year": 2026
+  },
+  {
+    "date": "2026-11-11",
+    "distance": 8068.1,
+    "elevation_gain": 55.0,
+    "id": "20951822212",
+    "moving_time": 2659.0,
+    "name": "5mi Easy Run / Fall foliage on my day off",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-11T11:31:16Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
