@@ -17015,5 +17015,18 @@
     "start_date_local": "2026-11-11T11:31:16Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-11-12",
+    "distance": 9935.2,
+    "elevation_gain": 11.9,
+    "id": "20963720449",
+    "moving_time": 3416.0,
+    "name": "400s into 200s / Turbo Power \ud83d\ude80",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-12T10:27:56Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
