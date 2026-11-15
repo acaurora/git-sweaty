@@ -17041,5 +17041,18 @@
     "start_date_local": "2026-11-12T17:17:49Z",
     "type": "Workout",
     "year": 2026
+  },
+  {
+    "date": "2026-11-14",
+    "distance": 14502.1,
+    "elevation_gain": 23.3,
+    "id": "20989100918",
+    "moving_time": 4593.0,
+    "name": "9mi Progressive Repeat Long Run / Activate Gazelle Mode!",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-14T11:04:44Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
