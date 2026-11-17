@@ -17067,5 +17067,18 @@
     "start_date_local": "2026-11-16T10:06:41Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-11-17",
+    "distance": 8872.3,
+    "elevation_gain": 10.2,
+    "id": "21025353022",
+    "moving_time": 2971.0,
+    "name": "5.5mi Easy Run / Steady State",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-17T10:20:45Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
