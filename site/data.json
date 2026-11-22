@@ -11861,6 +11861,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/21062177330",
       "year": 2026
+    },
+    {
+      "date": "2026-11-22",
+      "hour": 9,
+      "name": "Surviving the 9th circle of hell - 9 miles on the treadmill",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/21087573701",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -22403,6 +22412,15 @@
           "distance": 8861.0,
           "elevation_gain": 10.2,
           "moving_time": 2891.0
+        },
+        "2026-11-22": {
+          "activity_ids": [
+            "21087573701"
+          ],
+          "count": 1,
+          "distance": 15290.1,
+          "elevation_gain": 0.0,
+          "moving_time": 5124.0
         }
       },
       "WeightTraining": {
@@ -22925,7 +22943,7 @@
       }
     }
   },
-  "generated_at": "2026-11-21T20:43:33.856651+00:00",
+  "generated_at": "2026-11-22T20:54:02.625806+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/12822",
   "repo": "acaurora/git-sweaty",
