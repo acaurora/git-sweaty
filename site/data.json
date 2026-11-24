@@ -11870,6 +11870,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/21087573701",
       "year": 2026
+    },
+    {
+      "date": "2026-11-24",
+      "hour": 10,
+      "name": "5.5mi Easy Run / Chugging the Emergen-C",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/21111371068",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -22421,6 +22430,15 @@
           "distance": 15290.1,
           "elevation_gain": 0.0,
           "moving_time": 5124.0
+        },
+        "2026-11-24": {
+          "activity_ids": [
+            "21111371068"
+          ],
+          "count": 1,
+          "distance": 8866.6,
+          "elevation_gain": 10.2,
+          "moving_time": 2927.0
         }
       },
       "WeightTraining": {
@@ -22943,7 +22961,7 @@
       }
     }
   },
-  "generated_at": "2026-11-24T01:58:24.289473+00:00",
+  "generated_at": "2026-11-24T23:42:28.772246+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/12822",
   "repo": "acaurora/git-sweaty",
