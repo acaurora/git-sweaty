@@ -11879,6 +11879,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/21111371068",
       "year": 2026
+    },
+    {
+      "date": "2026-11-26",
+      "hour": 8,
+      "name": "Tempo 2 Miles",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/21133721737",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -22439,6 +22448,15 @@
           "distance": 8866.6,
           "elevation_gain": 10.2,
           "moving_time": 2927.0
+        },
+        "2026-11-26": {
+          "activity_ids": [
+            "21133721737"
+          ],
+          "count": 1,
+          "distance": 6954.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2257.0
         }
       },
       "WeightTraining": {
@@ -22961,7 +22979,7 @@
       }
     }
   },
-  "generated_at": "2026-11-25T23:26:27.410627+00:00",
+  "generated_at": "2026-11-26T23:26:06.431843+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/12822",
   "repo": "acaurora/git-sweaty",
